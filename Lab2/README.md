@@ -1,3 +1,5 @@
+# Assignment 2
+
 The program implements loop's subdvision mask using mask convolution. There were 2 main assignments:
 
 1. Add boundary rules for Loop subdivision
