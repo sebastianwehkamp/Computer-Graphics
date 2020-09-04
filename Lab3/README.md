@@ -1,3 +1,5 @@
+# Assignment 3
+
 The program implements assignment 3. There were 2 main assignments:
 
 1. Project vertices (at any subdivision level) to their limit positions using limit stencils. Boundaries should be supported!:
