@@ -1,3 +1,5 @@
+# Assignment 1
+
 The program implements the Subdivision curves lab assignment for Advanced Computer Graphics. There were 2 main assignments:
 
 1. Implement a general curve subdivison algorithm.
